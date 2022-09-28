@@ -1,4 +1,4 @@
-# Projeto Login
+# Projeto Login - Mobile First
 
 ![preview](./imagens/preview.png)
 
@@ -11,6 +11,10 @@
 - HTML
 - CSS
 - Git e Github
+
+## Aprendizagem
+
+- Aprendi a criar projetos usando Mobile First
 
 ## Contato
 
